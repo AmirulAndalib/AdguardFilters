@@ -4932,10 +4932,10 @@ turk-ifsa11.com,turk-ifsa12.com,turk-ifsa13.com,turk-ifsa14.com,turk-ifsa15.com,
 [$domain=/turkifsa\d*\.com/]##.ad-banner-frame
 [$domain=/turkifsa\d*\.com/]##div[class][style^="min-height:"][style*="calc("]
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
-turkifsa73.com,turkifsa74.com,turkifsa75.com,turkifsa76.com,turkifsa77.com,turkifsa78.com,turkifsa79.com,turkifsa80.com,turkifsa81.com,turkifsa82.com,turkifsa83.com##div[class]:has(> a:is([href^="https://cutt.ly/"],[href="https://denemebonusumi.com/"]))
-turkifsa73.com,turkifsa74.com,turkifsa75.com,turkifsa76.com,turkifsa77.com,turkifsa78.com,turkifsa79.com,turkifsa80.com,turkifsa81.com,turkifsa82.com,turkifsa83.com##video + div.absolute
-turkifsa73.com,turkifsa74.com,turkifsa75.com,turkifsa76.com,turkifsa77.com,turkifsa78.com,turkifsa79.com,turkifsa80.com,turkifsa81.com,turkifsa82.com,turkifsa83.com##.ad-banner-frame
-turkifsa73.com,turkifsa74.com,turkifsa75.com,turkifsa76.com,turkifsa77.com,turkifsa78.com,turkifsa79.com,turkifsa80.com,turkifsa81.com,turkifsa82.com,turkifsa83.com##div[class][style^="min-height:"][style*="calc("]
+turkifsa73.com,turkifsa74.com,turkifsa75.com,turkifsa76.com,turkifsa77.com,turkifsa78.com,turkifsa79.com,turkifsa80.com,turkifsa81.com,turkifsa82.com,turkifsa83.com,turkifsa84.com##div[class]:has(> a:is([href^="https://cutt.ly/"],[href="https://denemebonusumi.com/"]))
+turkifsa73.com,turkifsa74.com,turkifsa75.com,turkifsa76.com,turkifsa77.com,turkifsa78.com,turkifsa79.com,turkifsa80.com,turkifsa81.com,turkifsa82.com,turkifsa83.com,turkifsa84.com##video + div.absolute
+turkifsa73.com,turkifsa74.com,turkifsa75.com,turkifsa76.com,turkifsa77.com,turkifsa78.com,turkifsa79.com,turkifsa80.com,turkifsa81.com,turkifsa82.com,turkifsa83.com,turkifsa84.com##.ad-banner-frame
+turkifsa73.com,turkifsa74.com,turkifsa75.com,turkifsa76.com,turkifsa77.com,turkifsa78.com,turkifsa79.com,turkifsa80.com,turkifsa81.com,turkifsa82.com,turkifsa83.com,turkifsa84.com##div[class][style^="min-height:"][style*="calc("]
 !#endif
 !
 ! Frequently changed domains: turkifsa*.art
@@ -5111,10 +5111,10 @@ tvakin.live,tvakin1.live,tvakin2.live,tvakin3.live,tvakin4.live,tvakin5.live,tva
 !
 ! Frequently changed domains: patronlive*.cfd
 ! Source: patronspor.is
-patrongol34.cfd##a[href="https://x.com/patronsporis"] ~ a[href][target="_blank"]:not(#telegram-link)
-patrongol34.cfd##.background-link
-patrongol34.cfd##.top-banner-header
-||blogger.googleusercontent.com/img/$domain=patrongol34.cfd
+patrongol35.cfd##a[href="https://x.com/patronsporis"] ~ a[href][target="_blank"]:not(#telegram-link)
+patrongol35.cfd##.background-link
+patrongol35.cfd##.top-banner-header
+||blogger.googleusercontent.com/img/$domain=patrongol35.cfd
 !
 ! Frequently changed domains: patronlive*.cfd; patronfutbol*.cfd
 ! Source: patronspor.is
@@ -5129,10 +5129,10 @@ patrongol34.cfd##.top-banner-header
 [$domain=/patron(live\|futbol)\d+\.cfd$/]#%#//scriptlet('trusted-replace-node-text', 'script', 'prerollEnabled', 'prerollEnabled: true', 'prerollEnabled: false')
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
 ! patronlive*.cfd
-patronlive51.cfd,patronlive52.cfd##.background-link
-patronlive51.cfd,patronlive52.cfd##.top-banner-header
-patronlive51.cfd,patronlive52.cfd##a[href="https://x.com/patronsporis"] ~ a[href][target="_blank"]:not(#telegram-link)
-patronlive51.cfd,patronlive52.cfd#%#//scriptlet('trusted-replace-node-text', 'script', 'prerollEnabled', 'prerollEnabled: true', 'prerollEnabled: false')
+patronlive52.cfd##.background-link
+patronlive52.cfd##.top-banner-header
+patronlive52.cfd##a[href="https://x.com/patronsporis"] ~ a[href][target="_blank"]:not(#telegram-link)
+patronlive52.cfd#%#//scriptlet('trusted-replace-node-text', 'script', 'prerollEnabled', 'prerollEnabled: true', 'prerollEnabled: false')
 ! patronfutbol*.cfd
 patronfutbol56.cfd##.channel-ad-item
 patronfutbol56.cfd##.background-link
@@ -5786,9 +5786,9 @@ selcuksports2.com,selcuksports3.com,selcuksports4.com,selcuksports5.com,selcuksp
 taraftarium3-24.online##a[href="https://wa.me/447347044673"]
 taraftarium3-24.online,taraftariumhd61.live,taraftarium2spor.top,selcuksports.cv,taraftariumcanli2.site,justintvizle1.my,taraftarium24live.plus,taraftariumtr.cv,netspor54.buzz##.pageskin-container
 taraftarium3-24.online,taraftariumhd61.live,taraftarium2spor.top,selcuksports.cv,taraftariumcanli2.site,justintvizle1.my,taraftarium24live.plus,taraftariumtr.cv,netspor54.buzz##.player-ad-banner
-taraftarium24bjk12.com###ad-pageskin
-taraftarium24bjk12.com##.listAd
-taraftarium24bjk12.com,justintaraftarium.net#%#//scriptlet('trusted-replace-node-text', 'script', 'prerollEnabled', 'prerollEnabled:true', 'prerollEnabled:false')
+taraftarium24bjk13.com###ad-pageskin
+taraftarium24bjk13.com##.listAd
+taraftarium24bjk13.com,justintaraftarium.net#%#//scriptlet('trusted-replace-node-text', 'script', 'prerollEnabled', 'prerollEnabled:true', 'prerollEnabled:false')
 ||taraftarium24pro*.site/*.gif
 [$domain=/taraftarium24pro\d+\.site$/]##.below-player-banner
 [$domain=/taraftarium24pro\d+\.site$/]##.t24-sq-overlay
@@ -5944,11 +5944,11 @@ cinque.668a396e58bcbc27.click#%#//scriptlet('set-constant', 'config.advertisemen
 [$domain=/selcuksportshd[a-z0-9-]+\.click/]##.socials a:is(.meritroyal, .iptv, .streamradar)
 !#endif
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
-www.selcuksportshd0f9c045ffb.xyz##.banner
-www.selcuksportshd0f9c045ffb.xyz##.banners
-www.selcuksportshd0f9c045ffb.xyz##.container > aside.sidebar:has(> .banner)
-www.selcuksportshd0f9c045ffb.xyz##.footer
-www.selcuksportshd0f9c045ffb.xyz##.socials a:is(.meritroyal, .iptv, .streamradar)
+www.selcuksportshdbd813bd00f.xyz##.banner
+www.selcuksportshdbd813bd00f.xyz##.banners
+www.selcuksportshdbd813bd00f.xyz##.container > aside.sidebar:has(> .banner)
+www.selcuksportshdbd813bd00f.xyz##.footer
+www.selcuksportshdbd813bd00f.xyz##.socials a:is(.meritroyal, .iptv, .streamradar)
 !#endif
 ||blogger.googleusercontent.com/img/*/reklambanner.png
 ||blogger.googleusercontent.com/img/b/R29vZ2xl/*/s16000/crtswp-s-min.png
@@ -6254,11 +6254,11 @@ hdfilmcehennemi27.org#$#body { background-image: none !important; cursor: auto !
 [$domain=/inattv\d+\.xyz/]##div[style="position:fixed; bottom:0px; left:0; width:100%; text-align:center; z-index:999999;"]
 [$domain=/inattv\d+\.xyz/]#%#//scriptlet('trusted-replace-node-text', 'script', 'prerollEnabled', '/prerollEnabled:\s*true/', 'prerollEnabled:false')
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb || ext_ublock)
-inattv1321.xyz##.pageskin-wrapper > a[target="_blank"]
-||blogger.googleusercontent.com/img/$domain=inattv1321.xyz
-inattv1321.xyz##.ads-container
-inattv1321.xyz##div[style="position:fixed; bottom:0px; left:0; width:100%; text-align:center; z-index:999999;"]
-inattv1321.xyz#%#//scriptlet('trusted-replace-node-text', 'script', 'prerollEnabled', '/prerollEnabled:\s*true/', 'prerollEnabled:false')
+inattv1322.xyz##.pageskin-wrapper > a[target="_blank"]
+||blogger.googleusercontent.com/img/$domain=inattv1322.xyz
+inattv1322.xyz##.ads-container
+inattv1322.xyz##div[style="position:fixed; bottom:0px; left:0; width:100%; text-align:center; z-index:999999;"]
+inattv1322.xyz#%#//scriptlet('trusted-replace-node-text', 'script', 'prerollEnabled', '/prerollEnabled:\s*true/', 'prerollEnabled:false')
 !#endif
 ! aglint-disable no-invalid-modifiers
 !+ NOT_VALIDATE
